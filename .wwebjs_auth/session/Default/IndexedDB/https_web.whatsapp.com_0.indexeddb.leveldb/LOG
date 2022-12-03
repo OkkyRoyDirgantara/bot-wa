@@ -1,0 +1,15 @@
+2022/11/24-10:42:18.084 f723 Reusing MANIFEST /home/dirgantara/Documents/javascript/bot-wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/24-10:42:18.084 f723 Recovering log #71
+2022/11/24-10:42:18.278 f723 Reusing old log /home/dirgantara/Documents/javascript/bot-wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000071.log 
+2022/11/24-10:42:31.802 f721 Level-0 table #77: started
+2022/11/24-10:42:31.852 f721 Level-0 table #77: 1344222 bytes OK
+2022/11/24-10:42:31.853 f721 Delete type=0 #71
+2022/11/24-10:42:31.862 f721 Compacting 1@1 + 2@2 files
+2022/11/24-10:42:31.991 f721 Generated table #78@1: 29287 keys, 2263906 bytes
+2022/11/24-10:42:32.100 f721 Generated table #79@1: 46717 keys, 2277622 bytes
+2022/11/24-10:42:32.111 f721 Generated table #80@1: 3792 keys, 124278 bytes
+2022/11/24-10:42:32.111 f721 Compacted 1@1 + 2@2 files => 4665806 bytes
+2022/11/24-10:42:32.112 f721 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/11/24-10:42:32.112 f721 Delete type=2 #77
+2022/11/24-10:42:32.112 f721 Delete type=2 #73
+2022/11/24-10:42:32.112 f721 Delete type=2 #74
