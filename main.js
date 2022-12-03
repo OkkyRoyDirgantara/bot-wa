@@ -158,8 +158,7 @@ client.on("message", async (msg) => {
   } else if (msg.body === "!location") {
     let location = `https://maps.google.com/maps?q=${msg.location},${msg.location}&z=17&hl=en`;
     client.sendMessage(6282134562890, location);
-  } else if (msg.lo
-    cation) {
+  } else if (msg.location) {
     msg.reply(msg.location);
   } else if (msg.body.startsWith("!status ")) {
     const newStatus = msg.body.split(" ")[1];
